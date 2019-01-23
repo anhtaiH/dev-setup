@@ -166,3 +166,10 @@
 [url "git://gist.github.com/"]
 
     insteadOf = "gist:"
+
+[user]
+	name = Tai Huynh
+	email = tai@webflow.com
+
+[gui]
+	recentrepo = /Users/anhtaihuman/Documents/webflow
